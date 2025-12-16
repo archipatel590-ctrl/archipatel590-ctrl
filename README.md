@@ -15,3 +15,6 @@
 
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=archipatel&show_icons=true&theme=dark)
+### 🤝 Let's Connect
+- 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahek-korat-787623345/)
+- 🌐 Portfolio: Coming Soon 🚀
