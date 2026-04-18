@@ -27,7 +27,7 @@
 
 * 💻 Frontend: React.js, HTML, CSS, JavaScript
 * ⚙️ Backend: Node.js, Express.js
-* 🗄️ Database: MongoDB (if used)
+* 🗄️ Database: MongoDB
 * 📊 Tools: Git, GitHub
 
 ---
@@ -47,8 +47,7 @@ https://github.com/archipatel590-ctrl/tours-travel-management-system-
 
 ## 📫 Contact Me
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-
+* 📧 Email: archipatel590@gmail.com
 ---
 
 ⭐ *Thanks for visiting my profile!*
