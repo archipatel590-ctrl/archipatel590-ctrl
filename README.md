@@ -1,20 +1,44 @@
-## 👋 Hi, I'm Archi Patel  
+# 👋 Hi, I'm Archi Patel
 
-💻 BCA Student  
-🌱 Learning Frontend Development  
-🚀 HTML | CSS | JavaScript  
+🎓 BCA Student | 💻 Full Stack Developer | 🌍 Passionate about Web Development
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
-</p>
+## 🚀 About Me
+
+* 🔭 Currently working on **Travel Management System**
+* 🌱 Learning **React, Node.js, Machine Learning**
+* 💡 Interested in **Full Stack Development & Data Science**
+* 🎯 Goal: Become a skilled software developer
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=archipatel&show_icons=true&theme=dark)
-### 🤝 Let's Connect
-- 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/archi-patel-923a49333/)
-- 🌐 Portfolio: Coming Soon 🚀
+## 🛠️ Tech Stack
+
+* 💻 Frontend: React.js, HTML, CSS, JavaScript
+* ⚙️ Backend: Node.js, Express.js
+* 🗄️ Database: MongoDB (if used)
+* 📊 Tools: Git, GitHub
+
+---
+
+## 🌟 Featured Project
+
+### ✈️ Tours & Travel Management System
+
+* Full-stack web application for tour booking
+* Includes authentication, booking, and admin panel
+* Built using React & Node.js
+
+🔗 Project Link:
+https://github.com/archipatel590-ctrl/tours-travel-management-system-
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile!*
