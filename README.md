@@ -2,7 +2,8 @@
 <h3 align="center">🎓 BCA Student | 💻 Full Stack Developer | 🌍 Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=#03b6fc&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+Learner;Machine+Learning+Explorer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=
+#2596be&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+Learner;Machine+Learning+Explorer;Building+Real+World+Projects" />
   
 </p>
 
